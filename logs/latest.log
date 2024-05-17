@@ -195,3 +195,37 @@
 [16:19:35] [Server thread/INFO]: iniDarren was blown up by Creeper
 [16:20:11] [Server thread/INFO]: iniDarren was slain by Zombie
 [16:25:42] [Server thread/INFO]: iniDarren was slain by Zombie
+[16:29:40] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-54, y=107, z=133} hx{x=-54, y=105, z=132}
+[16:29:40] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=-54, y=107, z=133} hx{x=-54, y=105, z=132}
+[16:30:49] [Server thread/INFO]: iniDarren fell from a high place
+[16:31:54] [User Authenticator #5/INFO]: UUID of player DewaYoGamer is af92beee-9ce5-4143-8362-6019591fc3bf
+[16:31:54] [Server thread/INFO]: DewaYoGamer[/36.75.135.39:51319] logged in with entity id 5429 at (14.468675130770414, 95.0, -1.525284405510969)
+[16:31:54] [Server thread/INFO]: DewaYoGamer joined the game
+[16:32:07] [Server thread/INFO]: <DewaYoGamer> goblok
+[16:34:44] [Server thread/INFO]: DewaYoGamer lost connection: Disconnected
+[16:34:44] [Server thread/INFO]: DewaYoGamer left the game
+[16:37:53] [Server thread/INFO]: iniDarren fell from a high place
+[16:37:56] [Server thread/INFO]: iniDarren lost connection: Disconnected
+[16:37:56] [Server thread/INFO]: iniDarren left the game
+[16:37:59] [User Authenticator #6/INFO]: UUID of player DewaYoGamer is af92beee-9ce5-4143-8362-6019591fc3bf
+[16:37:59] [Server thread/INFO]: DewaYoGamer[/36.75.135.39:51398] logged in with entity id 6944 at (-18.232904061300694, 94.0, 33.40304026755735)
+[16:37:59] [Server thread/INFO]: DewaYoGamer joined the game
+[16:40:39] [Server thread/INFO]: DewaYoGamer has made the advancement [Monster Hunter]
+[16:41:49] [User Authenticator #7/INFO]: UUID of player iniDarren is 1e67d390-353c-4fc3-ba92-cb7bd538efa2
+[16:41:50] [Server thread/INFO]: iniDarren[/114.125.6.164:50645] logged in with entity id 7976 at (-16.72166641004636, 79.0, -86.68071152386321)
+[16:41:50] [Server thread/INFO]: iniDarren joined the game
+[16:46:23] [Server thread/INFO]: DewaYoGamer has made the advancement [Stone Age]
+[16:50:24] [Server thread/INFO]: iniDarren has made the advancement [Stone Age]
+[16:52:58] [Server thread/INFO]: DewaYoGamer has made the advancement [Getting an Upgrade]
+[16:53:24] [Server thread/INFO]: DewaYoGamer has made the advancement [Acquire Hardware]
+[16:54:16] [Server thread/INFO]: iniDarren has made the advancement [Getting an Upgrade]
+[16:56:06] [Server thread/INFO]: iniDarren has made the advancement [Acquire Hardware]
+[16:56:51] [Server thread/INFO]: DewaYoGamer has made the advancement [Sweet Dreams]
+[16:56:57] [Server thread/INFO]: iniDarren has made the advancement [Sweet Dreams]
+[16:58:09] [Server thread/INFO]: iniDarren was shot by Skeleton
+[16:59:03] [Server thread/INFO]: iniDarren fell from a high place
+[17:02:53] [Server thread/INFO]: iniDarren has made the advancement [Monster Hunter]
+[17:03:18] [Server thread/INFO]: iniDarren lost connection: Disconnected
+[17:03:18] [Server thread/INFO]: iniDarren left the game
+[17:03:26] [Server thread/INFO]: DewaYoGamer lost connection: Disconnected
+[17:03:26] [Server thread/INFO]: DewaYoGamer left the game
