@@ -1,0 +1,253 @@
+JVM info: Microsoft - 21.0.4 - 21.0.4+7-LTS
+java.net.preferIPv4Stack=true
+Current Time: 30/08/2024 07:29:47
+Host: files.minecraftforge.net [172.67.161.211, 104.21.58.163]
+Host: maven.minecraftforge.net [104.21.58.163, 172.67.161.211]
+Host: libraries.minecraft.net [13.107.246.59]
+Host: launchermeta.mojang.com [13.107.246.59]
+Host: piston-meta.mojang.com [13.107.246.59]
+Host: sessionserver.mojang.com [13.107.246.59]
+Host: authserver.mojang.com [Unknown]
+Target Directory: .
+Data kindly mirrored by CreeperHost at https://www.creeperhost.net/
+Extracting main jar:
+  Extracted successfully
+Considering minecraft server jar
+Downloading libraries
+Found 0 additional library directories
+Considering library net.minecraftforge:forge:1.21.1-52.0.9:universal
+  File exists: Checksum validated.
+Considering library net.minecraftforge:forge:1.21.1-52.0.9:client
+  Invalid library, missing url
+Considering library net.minecraftforge:JarJarFileSystems:0.3.26
+  File exists: Checksum validated.
+Considering library com.google.guava:guava:32.1.2-jre
+  File exists: Checksum validated.
+Considering library com.google.guava:failureaccess:1.0.1
+  File exists: Checksum validated.
+Considering library net.minecraftforge:securemodules:2.2.20
+  File exists: Checksum validated.
+Considering library net.minecraftforge:unsafe:0.9.2
+  File exists: Checksum validated.
+Considering library org.ow2.asm:asm:9.7
+  File exists: Checksum validated.
+Considering library org.ow2.asm:asm-tree:9.7
+  File exists: Checksum validated.
+Considering library org.ow2.asm:asm-util:9.7
+  File exists: Checksum validated.
+Considering library org.ow2.asm:asm-commons:9.7
+  File exists: Checksum validated.
+Considering library org.ow2.asm:asm-analysis:9.7
+  File exists: Checksum validated.
+Considering library de.oceanlabs.mcp:mcp_config:1.21.1-20240808.132146:srg2off
+  File exists: Checksum validated.
+Considering library net.minecraftforge:JarJarFileSystems:0.3.26
+  File exists: Checksum validated.
+Considering library com.google.guava:guava:32.1.2-jre
+  File exists: Checksum validated.
+Considering library com.google.guava:failureaccess:1.0.1
+  File exists: Checksum validated.
+Considering library net.minecraftforge:securemodules:2.2.20
+  File exists: Checksum validated.
+Considering library net.minecraftforge:unsafe:0.9.2
+  File exists: Checksum validated.
+Considering library org.ow2.asm:asm:9.7
+  File exists: Checksum validated.
+Considering library org.ow2.asm:asm-tree:9.7
+  File exists: Checksum validated.
+Considering library org.ow2.asm:asm-util:9.7
+  File exists: Checksum validated.
+Considering library org.ow2.asm:asm-commons:9.7
+  File exists: Checksum validated.
+Considering library org.ow2.asm:asm-analysis:9.7
+  File exists: Checksum validated.
+Considering library net.minecraftforge:bootstrap:2.1.3
+  File exists: Checksum validated.
+Considering library net.minecraftforge:bootstrap-api:2.1.3
+  File exists: Checksum validated.
+Considering library net.minecraftforge:accesstransformers:8.2.0
+  File exists: Checksum validated.
+Considering library net.minecraftforge:eventbus:6.2.8
+  File exists: Checksum validated.
+Considering library net.jodah:typetools:0.6.3
+  File exists: Checksum validated.
+Considering library net.minecraftforge:forgespi:7.1.5
+  File exists: Checksum validated.
+Considering library net.minecraftforge:coremods:5.1.6
+  File exists: Checksum validated.
+Considering library org.openjdk.nashorn:nashorn-core:15.4
+  File exists: Checksum validated.
+Considering library net.minecraftforge:modlauncher:10.2.1
+  File exists: Checksum validated.
+Considering library net.minecraftforge:mergetool-api:1.0
+  File exists: Checksum validated.
+Considering library com.electronwill.night-config:toml:3.7.3
+  File exists: Checksum validated.
+Considering library com.electronwill.night-config:core:3.7.3
+  File exists: Checksum validated.
+Considering library org.apache.maven:maven-artifact:3.8.5
+  File exists: Checksum validated.
+Considering library net.minecrell:terminalconsoleappender:1.2.0
+  File exists: Checksum validated.
+Considering library org.jline:jline-reader:3.12.1
+  File exists: Checksum validated.
+Considering library org.jline:jline-terminal:3.12.1
+  File exists: Checksum validated.
+Considering library org.jline:jline-terminal-jna:3.12.1
+  File exists: Checksum validated.
+Considering library org.spongepowered:mixin:0.8.7
+  File exists: Checksum validated.
+Considering library net.minecraftforge:JarJarSelector:0.3.26
+  File exists: Checksum validated.
+Considering library net.minecraftforge:JarJarMetadata:0.3.26
+  File exists: Checksum validated.
+Considering library net.minecraftforge:fmlcore:1.21.1-52.0.9
+  File exists: Checksum validated.
+Considering library net.minecraftforge:fmlloader:1.21.1-52.0.9
+  File exists: Checksum validated.
+Considering library net.minecraftforge:fmlearlydisplay:1.21.1-52.0.9
+  File exists: Checksum validated.
+Considering library net.minecraftforge:javafmllanguage:1.21.1-52.0.9
+  File exists: Checksum validated.
+Considering library net.minecraftforge:lowcodelanguage:1.21.1-52.0.9
+  File exists: Checksum validated.
+Considering library net.minecraftforge:mclanguage:1.21.1-52.0.9
+  File exists: Checksum validated.
+Considering library com.github.jponge:lzma-java:1.3
+  File exists: Checksum validated.
+Considering library com.google.code.gson:gson:2.10.1
+  File exists: Checksum validated.
+Considering library com.nothome:javaxdelta:2.0.1
+  File exists: Checksum validated.
+Considering library de.oceanlabs.mcp:mcp_config:1.21.1-20240808.132146@zip
+  File exists: Checksum validated.
+Considering library de.siegmar:fastcsv:2.2.2
+  File exists: Checksum validated.
+Considering library net.minecraftforge:ForgeAutoRenamingTool:1.0.6
+  File exists: Checksum validated.
+Considering library net.minecraftforge:binarypatcher:1.2.0
+  File exists: Checksum validated.
+Considering library net.minecraftforge:forge:1.21.1-52.0.9:shim
+  File exists: Checksum validated.
+Considering library net.minecraftforge:forge:1.21.1-52.0.9:universal
+  File exists: Checksum validated.
+Considering library net.minecraftforge:installertools:1.4.3
+  File exists: Checksum validated.
+Considering library net.minecraftforge:srgutils:0.5.1
+  File exists: Checksum validated.
+Considering library net.minecraftforge:srgutils:0.5.10
+  File exists: Checksum validated.
+Considering library net.minecraftforge:srgutils:0.5.6
+  File exists: Checksum validated.
+Considering library net.sf.jopt-simple:jopt-simple:6.0-alpha-3
+  File exists: Checksum validated.
+Considering library org.ow2.asm:asm-commons:9.5
+  File exists: Checksum validated.
+Considering library org.ow2.asm:asm-commons:9.7
+  File exists: Checksum validated.
+Considering library org.ow2.asm:asm-tree:9.5
+  File exists: Checksum validated.
+Considering library org.ow2.asm:asm-tree:9.7
+  File exists: Checksum validated.
+Considering library org.ow2.asm:asm:9.5
+  File exists: Checksum validated.
+Considering library org.ow2.asm:asm:9.7
+  File exists: Checksum validated.
+Considering library trove:trove:1.0.2
+  File exists: Checksum validated.
+Created Temporary Directory: /tmp/forge_installer15638153332568211729
+  Extracting: /data/server.lzma
+Building Processors
+===============================================================================
+  MainClass: net.minecraftforge.installertools.ConsoleTool
+  Classpath:
+    /workspaces/mc21lux/./libraries/net/minecraftforge/installertools/1.4.3/installertools-1.4.3.jar
+    /workspaces/mc21lux/./libraries/net/sf/jopt-simple/jopt-simple/6.0-alpha-3/jopt-simple-6.0-alpha-3.jar
+    /workspaces/mc21lux/./libraries/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar
+    /workspaces/mc21lux/./libraries/de/siegmar/fastcsv/2.2.2/fastcsv-2.2.2.jar
+    /workspaces/mc21lux/./libraries/net/minecraftforge/srgutils/0.5.10/srgutils-0.5.10.jar
+    /workspaces/mc21lux/./libraries/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar
+    /workspaces/mc21lux/./libraries/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar
+    /workspaces/mc21lux/./libraries/org/ow2/asm/asm/9.7/asm-9.7.jar
+  Args: --task, EXTRACT_FILES, --archive, /workspaces/mc21lux/forge-1.21.1-52.0.9-installer.jar, --from, data/README.txt, --to, /workspaces/mc21lux/./README.txt, --from, data/run.sh, --to, /workspaces/mc21lux/./run.sh, --exec, /workspaces/mc21lux/./run.sh, --from, data/run.bat, --to, /workspaces/mc21lux/./run.bat, --from, data/user_jvm_args.txt, --to, /workspaces/mc21lux/./user_jvm_args.txt, --optional, /workspaces/mc21lux/./user_jvm_args.txt, --from, data/unix_args.txt, --to, /workspaces/mc21lux/./libraries/net/minecraftforge/forge/1.21.1-52.0.9/unix_args.txt, --from, data/win_args.txt, --to, /workspaces/mc21lux/./libraries/net/minecraftforge/forge/1.21.1-52.0.9/win_args.txt
+Task: EXTRACT_FILES
+Archive: /workspaces/mc21lux/forge-1.21.1-52.0.9-installer.jar
+Extract: data/README.txt
+         /workspaces/mc21lux/./README.txt
+Extract: data/run.sh
+         /workspaces/mc21lux/./run.sh
+Extract: data/run.bat
+         /workspaces/mc21lux/./run.bat
+Extract: data/user_jvm_args.txt
+         /workspaces/mc21lux/./user_jvm_args.txt
+Extract: data/unix_args.txt
+         /workspaces/mc21lux/./libraries/net/minecraftforge/forge/1.21.1-52.0.9/unix_args.txt
+Extract: data/win_args.txt
+         /workspaces/mc21lux/./libraries/net/minecraftforge/forge/1.21.1-52.0.9/win_args.txt
+Exec:    /workspaces/mc21lux/./run.sh
+===============================================================================
+  MainClass: net.minecraftforge.installertools.ConsoleTool
+  Classpath:
+    /workspaces/mc21lux/./libraries/net/minecraftforge/installertools/1.4.3/installertools-1.4.3.jar
+    /workspaces/mc21lux/./libraries/net/sf/jopt-simple/jopt-simple/6.0-alpha-3/jopt-simple-6.0-alpha-3.jar
+    /workspaces/mc21lux/./libraries/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar
+    /workspaces/mc21lux/./libraries/de/siegmar/fastcsv/2.2.2/fastcsv-2.2.2.jar
+    /workspaces/mc21lux/./libraries/net/minecraftforge/srgutils/0.5.10/srgutils-0.5.10.jar
+    /workspaces/mc21lux/./libraries/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar
+    /workspaces/mc21lux/./libraries/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar
+    /workspaces/mc21lux/./libraries/org/ow2/asm/asm/9.7/asm-9.7.jar
+  Args: --task, BUNDLER_EXTRACT, --input, /workspaces/mc21lux/./libraries/net/minecraft/server/1.21.1/server-1.21.1-bundled.jar, --output, /workspaces/mc21lux/./libraries/, --libraries
+Task: BUNDLER_EXTRACT
+Input:   /workspaces/mc21lux/./libraries/net/minecraft/server/1.21.1/server-1.21.1-bundled.jar
+Output:  /workspaces/mc21lux/./libraries
+All:     false
+JarOnly: false
+Libs:    true
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+File already exists, and hash verified
+===============================================================================
+  Cache: 
+    /workspaces/mc21lux/./libraries/net/minecraft/server/1.21.1/server-1.21.1-unpacked.jar Validated: a8ae1f986e20cc91442b6b2b64d62bcd065618d7
+  Cache Hit!
+===============================================================================
+  Cache: 
+    /workspaces/mc21lux/./libraries/net/minecraft/server/1.21.1/server-1.21.1-mappings.tsrg Validated: 897129e2f8fd491d95b8c40216d7565abb08a4c3
+  Cache Hit!
+===============================================================================
+  Cache: 
+    /workspaces/mc21lux/./libraries/net/minecraft/server/1.21.1/server-1.21.1-official.jar Validated: 30b8201b59018b69989d857115b9be7dcbc62b7a
+  Cache Hit!
+===============================================================================
+  Cache: 
+    /workspaces/mc21lux/./libraries/net/minecraftforge/forge/1.21.1-52.0.9/forge-1.21.1-52.0.9-server.jar Validated: 030ed1ed57855fe2011443fe2bf7b3b102330945
+  Cache Hit!
+The server installed successfully
+You can delete this installer file now if you wish
