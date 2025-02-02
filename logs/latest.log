@@ -1,12 +1,12 @@
-[14:55:12] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.10
-[14:55:14] [main/WARN]: Warnings were found!
+[07:27:15] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.10
+[07:27:16] [main/WARN]: Warnings were found!
  - Mod 'Dynamic Lights' (dynamiclights) 1.8.5+mod recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
  - Mod 'Dynamic Lights' (dynamiclights) 1.8.5+mod recommends any version of modmenu-badges-lib, which is missing!
 	 - You should install any version of modmenu-badges-lib for the optimal experience.
  - Mod 'Dynamic Lights' (dynamiclights) 1.8.5+mod recommends any version of midnightlib, which is missing!
 	 - You should install any version of midnightlib for the optimal experience.
-[14:55:14] [main/INFO]: Loading 63 mods:
+[07:27:16] [main/INFO]: Loading 63 mods:
 	- cloth-config 17.0.144
 	   \-- cloth-basic-math 0.6.1
 	- collective 7.89
@@ -80,97 +80,36 @@
 	- minecraft 1.21.4
 	- modernfix 5.20.2+mc1.21.4
 	- treeharvester 9.0
-[14:55:15] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/codespace/minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[14:55:15] [main/INFO]: Compatibility level set to JAVA_21
-[14:55:16] [main/INFO]: Loaded configuration file for Lithium: 142 options available, 1 override(s) found
-[14:55:16] [main/INFO]: Loaded configuration file for ModernFix 5.20.2+mc1.21.4: 54 options available, 0 override(s) found
-[14:55:16] [main/INFO]: Applying Nashorn fix
-[14:55:19] [main/INFO]: Force-enabling mixin 'compat.transfer_api.TransferApiHelperMixin' as rule 'mixin.compat.transfer_api' (added by mods [lithium]) enables it
-[14:55:20] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[14:55:28] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
-[14:55:38] [main/INFO]: Vanilla bootstrap took 15992 milliseconds
-[14:55:38] [main/INFO]: Loading Collective version 7.89.
-[14:55:38] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
-[14:55:39] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:55:46] [main/INFO]: Loaded 1370 recipes
-[14:55:46] [main/INFO]: Loaded 1483 advancements
-[14:55:47] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 2.422 ms
-[14:55:47] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[14:55:47] [Server thread/INFO]: Loading properties
-[14:55:47] [Server thread/INFO]: Default game type: SURVIVAL
-[14:55:47] [Server thread/INFO]: Generating keypair
-[14:55:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:55:47] [Server thread/INFO]: Using epoll channel type
-[14:55:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:55:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:55:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:55:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:55:48] [Server thread/INFO]: Preparing level "world"
-[14:55:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:55:48] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.collections.chunk_tickets.SortedArraySetMixin. Skipping method.
-[14:55:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:55:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:55:49] [Worker-Main-1/INFO]: Preparing spawn area: 12%
-[14:55:50] [Worker-Main-1/INFO]: Preparing spawn area: 59%
-[14:55:50] [Server thread/INFO]: Time elapsed: 1964 ms
-[14:55:50] [Server thread/INFO]: Done (2.674s)! For help, type "help"
-[14:55:50] [Server thread/WARN]: Dedicated server took 49.073 seconds to load
-[14:55:54] [Server thread/INFO]: iniDarren[/127.217.250.214:58567] logged in with entity id 10 at (-2825.2854389787235, 152.0, 173.30000001192093)
-[14:55:54] [Server thread/INFO]: iniDarren joined the game
-[14:55:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
-[14:55:56] [Server thread/INFO]: DewaYoGamer[/127.163.29.223:41727] logged in with entity id 42 at (-2826.300000011921, 143.0, 162.27532362239586)
-[14:55:56] [Server thread/INFO]: DewaYoGamer joined the game
-[14:56:02] [Server thread/INFO]: KaptenZ[/127.43.66.74:49107] logged in with entity id 379 at (-1137.890331115006, 112.0, -462.0886897595624)
-[14:56:02] [Server thread/INFO]: KaptenZ joined the game
-[14:56:15] [Server thread/INFO]: Xbumps[/127.83.70.85:45183] logged in with entity id 938 at (-2826.300000011921, 152.0, 175.2954562140465)
-[14:56:15] [Server thread/INFO]: Xbumps joined the game
-[14:56:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12010ms or 240 ticks behind
-[14:56:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2526ms or 50 ticks behind
-[14:57:03] [Server thread/INFO]: Xbumps lost connection: Disconnected
-[14:57:03] [Server thread/INFO]: Xbumps left the game
-[14:58:09] [Server thread/INFO]: Xbumps[/127.83.70.85:46059] logged in with entity id 3978 at (-2827.539154830091, 152.0, 173.52111459689047)
-[14:58:09] [Server thread/INFO]: Xbumps joined the game
-[14:58:37] [Server thread/INFO]: Xbumps has made the advancement [Suit Up]
-[15:00:54] [Server thread/INFO]: iniDarren lost connection: Disconnected
-[15:00:54] [Server thread/INFO]: iniDarren left the game
-[15:01:00] [Server thread/INFO]: iniDarren[/127.217.250.214:48115] logged in with entity id 8168 at (-2827.368506761349, 152.0, 173.4930457016424)
-[15:01:00] [Server thread/INFO]: iniDarren joined the game
-[15:03:00] [Server thread/INFO]: [Not Secure] <iniDarren> xaero-waypoint:Memek:B:-1127:120:-429:9:false:0:Internal-overworld-waypoints
-[15:03:12] [Server thread/INFO]: [Not Secure] <iniDarren> xaero-waypoint:Spider Spawner:S:-1168:71:-449:12:false:0:Internal-overworld-waypoints
-[15:03:19] [Server thread/INFO]: KaptenZ has made the advancement [Diamonds!]
-[15:05:58] [Server thread/INFO]: DewaYoGamer lost connection: Disconnected
-[15:05:58] [Server thread/INFO]: DewaYoGamer left the game
-[15:06:00] [Server thread/INFO]: iniDarren lost connection: Disconnected
-[15:06:00] [Server thread/INFO]: iniDarren left the game
-[15:06:10] [Server thread/INFO]: KaptenZ lost connection: Disconnected
-[15:06:10] [Server thread/INFO]: KaptenZ left the game
-[15:06:12] [Server thread/INFO]: Xbumps lost connection: Disconnected
-[15:06:12] [Server thread/INFO]: Xbumps left the game
-[15:06:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@3d19e173[id=9b190b50-6f38-3bd9-ae4f-5b8a5909ddad,name=iniDarren,properties={}] lost connection: Disconnected
-[15:07:07] [Server thread/INFO]: DewaYoGamer[/[0:0:0:0:0:0:0:1]:47616] logged in with entity id 14402 at (-2882.1398148948433, 143.0, 235.1945376913673)
-[15:07:07] [Server thread/INFO]: DewaYoGamer joined the game
-[15:07:25] [Server thread/INFO]: iniDarren[/[0:0:0:0:0:0:0:1]:53766] logged in with entity id 15200 at (-2873.2479036031496, 146.0, 232.9448963133725)
-[15:07:25] [Server thread/INFO]: iniDarren joined the game
-[15:07:57] [Server thread/INFO]: Xbumps[/[0:0:0:0:0:0:0:1]:34336] logged in with entity id 15907 at (-2873.9981395179066, 146.0, 232.2363575907771)
-[15:07:57] [Server thread/INFO]: Xbumps joined the game
-[15:08:01] [Server thread/INFO]: KaptenZ[/[0:0:0:0:0:0:0:1]:34324] logged in with entity id 16140 at (-1139.8418990477303, 112.0, -460.0220391888985)
-[15:08:01] [Server thread/INFO]: KaptenZ joined the game
-[15:08:42] [Server thread/INFO]: KaptenZ lost connection: Disconnected
-[15:08:42] [Server thread/INFO]: KaptenZ left the game
-[15:10:40] [Server thread/INFO]: KaptenZ[/[0:0:0:0:0:0:0:1]:37986] logged in with entity id 22698 at (-1138.41542868542, 118.0, -459.50973685125376)
-[15:10:40] [Server thread/INFO]: KaptenZ joined the game
-[15:10:59] [Server thread/INFO]: [Not Secure] <KaptenZ> xaero-waypoint:Spider Spawner:S:-1168:71:-449:12:false:0:Internal-overworld-waypoints
-[15:11:03] [Server thread/INFO]: [Not Secure] <KaptenZ> xaero-waypoint:Memek:B:-1127:120:-429:9:false:0:Internal-overworld-waypoints
-[15:11:40] [Server thread/INFO]: [Not Secure] <KaptenZ> xaero-waypoint:Home:H:-1136:118:-462:10:false:0:Internal-overworld-waypoints
-[15:13:45] [Server thread/INFO]: DewaYoGamer has made the advancement [Ice Bucket Challenge]
-[15:21:59] [Server thread/INFO]: DewaYoGamer fell from a high place
-[15:23:11] [Server thread/INFO]: Xbumps has made the advancement [Isn't It Iron Pick]
-[15:26:46] [Server thread/INFO]: KaptenZ has made the advancement [Best Friends Forever]
-[15:27:37] [Server thread/INFO]: DewaYoGamer lost connection: Disconnected
-[15:27:37] [Server thread/INFO]: DewaYoGamer left the game
-[15:28:53] [Server thread/INFO]: KaptenZ lost connection: Disconnected
-[15:28:53] [Server thread/INFO]: KaptenZ left the game
-[15:34:51] [Server thread/INFO]: iniDarren lost connection: Disconnected
-[15:34:51] [Server thread/INFO]: iniDarren left the game
-[15:34:54] [Server thread/INFO]: Xbumps lost connection: Disconnected
-[15:34:54] [Server thread/INFO]: Xbumps left the game
+[07:27:16] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/minecraftlux/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[07:27:16] [main/INFO]: Compatibility level set to JAVA_21
+[07:27:16] [main/INFO]: Loaded configuration file for Lithium: 142 options available, 1 override(s) found
+[07:27:16] [main/INFO]: Loaded configuration file for ModernFix 5.20.2+mc1.21.4: 54 options available, 0 override(s) found
+[07:27:16] [main/INFO]: Applying Nashorn fix
+[07:27:17] [main/INFO]: Force-enabling mixin 'compat.transfer_api.TransferApiHelperMixin' as rule 'mixin.compat.transfer_api' (added by mods [lithium]) enables it
+[07:27:17] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[07:27:24] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[07:27:30] [main/INFO]: Vanilla bootstrap took 12044 milliseconds
+[07:27:31] [main/INFO]: Loading Collective version 7.89.
+[07:27:31] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[07:27:31] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[07:27:35] [main/INFO]: Loaded 1370 recipes
+[07:27:35] [main/INFO]: Loaded 1483 advancements
+[07:27:36] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 6.168 ms
+[07:27:36] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[07:27:36] [Server thread/INFO]: Loading properties
+[07:27:36] [Server thread/INFO]: Default game type: SURVIVAL
+[07:27:36] [Server thread/INFO]: Generating keypair
+[07:27:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:27:36] [Server thread/INFO]: Using epoll channel type
+[07:27:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:27:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:27:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:27:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:27:36] [Server thread/INFO]: Preparing level "world"
+[07:27:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:27:37] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.collections.chunk_tickets.SortedArraySetMixin. Skipping method.
+[07:27:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:27:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:27:37] [Server thread/INFO]: Time elapsed: 848 ms
+[07:27:37] [Server thread/INFO]: Done (1.494s)! For help, type "help"
+[07:27:37] [Server thread/WARN]: Dedicated server took 23.943 seconds to load
