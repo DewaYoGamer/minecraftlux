@@ -1,0 +1,176 @@
+[14:55:12] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.10
+[14:55:14] [main/WARN]: Warnings were found!
+ - Mod 'Dynamic Lights' (dynamiclights) 1.8.5+mod recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+ - Mod 'Dynamic Lights' (dynamiclights) 1.8.5+mod recommends any version of modmenu-badges-lib, which is missing!
+	 - You should install any version of modmenu-badges-lib for the optimal experience.
+ - Mod 'Dynamic Lights' (dynamiclights) 1.8.5+mod recommends any version of midnightlib, which is missing!
+	 - You should install any version of midnightlib for the optimal experience.
+[14:55:14] [main/INFO]: Loading 63 mods:
+	- cloth-config 17.0.144
+	   \-- cloth-basic-math 0.6.1
+	- collective 7.89
+	- dynamiclights 1.8.5+mod
+	- fabric-api 0.115.1+1.21.4
+	   |-- fabric-api-base 0.4.54+b47eab6b04
+	   |-- fabric-api-lookup-api-v1 1.6.86+b1caf1e904
+	   |-- fabric-biome-api-v1 15.0.6+b1c29d8e04
+	   |-- fabric-block-api-v1 1.0.31+7feeb73304
+	   |-- fabric-block-view-api-v2 1.0.19+7feeb73304
+	   |-- fabric-blockrenderlayer-v1 2.0.8+7feeb73304
+	   |-- fabric-client-tags-api-v1 1.1.29+20ea1e2304
+	   |-- fabric-command-api-v1 1.2.62+f71b366f04
+	   |-- fabric-command-api-v2 2.2.41+e496eb1504
+	   |-- fabric-commands-v0 0.2.79+df3654b304
+	   |-- fabric-content-registries-v0 9.1.17+7feeb73304
+	   |-- fabric-convention-tags-v1 2.1.15+7f945d5b04
+	   |-- fabric-convention-tags-v2 2.12.1+e359e31604
+	   |-- fabric-crash-report-info-v1 0.3.6+7feeb73304
+	   |-- fabric-data-attachment-api-v1 1.5.2+2d7e411e04
+	   |-- fabric-data-generation-api-v1 22.2.9+20ea1e2304
+	   |-- fabric-dimensions-v1 4.0.10+7feeb73304
+	   |-- fabric-entity-events-v1 2.0.13+1934821104
+	   |-- fabric-events-interaction-v0 4.0.3+a4eebcf004
+	   |-- fabric-game-rule-api-v1 1.0.63+7d48d43904
+	   |-- fabric-item-api-v1 11.1.17+203e6b2304
+	   |-- fabric-item-group-api-v1 4.1.26+9a56a7cd04
+	   |-- fabric-key-binding-api-v1 1.0.57+7d48d43904
+	   |-- fabric-keybindings-v0 0.2.55+df3654b304
+	   |-- fabric-lifecycle-events-v1 2.5.4+bf2a60eb04
+	   |-- fabric-loot-api-v2 3.0.36+3f89f5a504
+	   |-- fabric-loot-api-v3 1.0.24+203e6b2304
+	   |-- fabric-message-api-v1 6.0.25+7feeb73304
+	   |-- fabric-model-loading-api-v1 4.2.1+8041d50704
+	   |-- fabric-networking-api-v1 4.3.10+8998135104
+	   |-- fabric-object-builder-api-v1 18.0.11+7d48d43904
+	   |-- fabric-particles-v1 4.0.14+7feeb73304
+	   |-- fabric-recipe-api-v1 8.0.9+160b66fa04
+	   |-- fabric-registry-sync-v0 6.1.7+e359e31604
+	   |-- fabric-renderer-api-v1 5.0.3+50f0feb204
+	   |-- fabric-renderer-indigo 2.0.3+50f0feb204
+	   |-- fabric-rendering-data-attachment-v1 0.3.57+73761d2e04
+	   |-- fabric-rendering-fluids-v1 3.1.19+7feeb73304
+	   |-- fabric-rendering-v1 10.1.2+b874120c04
+	   |-- fabric-resource-conditions-api-v1 5.0.13+203e6b2304
+	   |-- fabric-resource-loader-v0 3.0.14+e359e31604
+	   |-- fabric-screen-api-v1 2.0.38+7feeb73304
+	   |-- fabric-screen-handler-api-v1 1.3.114+7feeb73304
+	   |-- fabric-sound-api-v1 1.0.32+7feeb73304
+	   |-- fabric-tag-api-v1 1.0.5+7d48d43904
+	   |-- fabric-transfer-api-v1 5.4.9+efa825c904
+	   \-- fabric-transitive-access-wideners-v1 6.3.2+56e78b9b04
+	- fabric-language-kotlin 1.13.1+kotlin.2.1.10
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.1.10
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.1.10
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.1.10
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.1.10
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.27.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.10.1
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.10.1
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.6.1
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.6.0
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.6.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.8.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.8.0
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.8.0
+	- fabricloader 0.16.10
+	   \-- mixinextras 0.4.1
+	- java 21
+	- lithium 0.14.7+mc1.21.4
+	- minecraft 1.21.4
+	- modernfix 5.20.2+mc1.21.4
+	- treeharvester 9.0
+[14:55:15] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/codespace/minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[14:55:15] [main/INFO]: Compatibility level set to JAVA_21
+[14:55:16] [main/INFO]: Loaded configuration file for Lithium: 142 options available, 1 override(s) found
+[14:55:16] [main/INFO]: Loaded configuration file for ModernFix 5.20.2+mc1.21.4: 54 options available, 0 override(s) found
+[14:55:16] [main/INFO]: Applying Nashorn fix
+[14:55:19] [main/INFO]: Force-enabling mixin 'compat.transfer_api.TransferApiHelperMixin' as rule 'mixin.compat.transfer_api' (added by mods [lithium]) enables it
+[14:55:20] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[14:55:28] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[14:55:38] [main/INFO]: Vanilla bootstrap took 15992 milliseconds
+[14:55:38] [main/INFO]: Loading Collective version 7.89.
+[14:55:38] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[14:55:39] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:55:46] [main/INFO]: Loaded 1370 recipes
+[14:55:46] [main/INFO]: Loaded 1483 advancements
+[14:55:47] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 2.422 ms
+[14:55:47] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[14:55:47] [Server thread/INFO]: Loading properties
+[14:55:47] [Server thread/INFO]: Default game type: SURVIVAL
+[14:55:47] [Server thread/INFO]: Generating keypair
+[14:55:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:55:47] [Server thread/INFO]: Using epoll channel type
+[14:55:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:55:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:55:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:55:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:55:48] [Server thread/INFO]: Preparing level "world"
+[14:55:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:55:48] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.collections.chunk_tickets.SortedArraySetMixin. Skipping method.
+[14:55:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:55:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:55:49] [Worker-Main-1/INFO]: Preparing spawn area: 12%
+[14:55:50] [Worker-Main-1/INFO]: Preparing spawn area: 59%
+[14:55:50] [Server thread/INFO]: Time elapsed: 1964 ms
+[14:55:50] [Server thread/INFO]: Done (2.674s)! For help, type "help"
+[14:55:50] [Server thread/WARN]: Dedicated server took 49.073 seconds to load
+[14:55:54] [Server thread/INFO]: iniDarren[/127.217.250.214:58567] logged in with entity id 10 at (-2825.2854389787235, 152.0, 173.30000001192093)
+[14:55:54] [Server thread/INFO]: iniDarren joined the game
+[14:55:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
+[14:55:56] [Server thread/INFO]: DewaYoGamer[/127.163.29.223:41727] logged in with entity id 42 at (-2826.300000011921, 143.0, 162.27532362239586)
+[14:55:56] [Server thread/INFO]: DewaYoGamer joined the game
+[14:56:02] [Server thread/INFO]: KaptenZ[/127.43.66.74:49107] logged in with entity id 379 at (-1137.890331115006, 112.0, -462.0886897595624)
+[14:56:02] [Server thread/INFO]: KaptenZ joined the game
+[14:56:15] [Server thread/INFO]: Xbumps[/127.83.70.85:45183] logged in with entity id 938 at (-2826.300000011921, 152.0, 175.2954562140465)
+[14:56:15] [Server thread/INFO]: Xbumps joined the game
+[14:56:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12010ms or 240 ticks behind
+[14:56:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2526ms or 50 ticks behind
+[14:57:03] [Server thread/INFO]: Xbumps lost connection: Disconnected
+[14:57:03] [Server thread/INFO]: Xbumps left the game
+[14:58:09] [Server thread/INFO]: Xbumps[/127.83.70.85:46059] logged in with entity id 3978 at (-2827.539154830091, 152.0, 173.52111459689047)
+[14:58:09] [Server thread/INFO]: Xbumps joined the game
+[14:58:37] [Server thread/INFO]: Xbumps has made the advancement [Suit Up]
+[15:00:54] [Server thread/INFO]: iniDarren lost connection: Disconnected
+[15:00:54] [Server thread/INFO]: iniDarren left the game
+[15:01:00] [Server thread/INFO]: iniDarren[/127.217.250.214:48115] logged in with entity id 8168 at (-2827.368506761349, 152.0, 173.4930457016424)
+[15:01:00] [Server thread/INFO]: iniDarren joined the game
+[15:03:00] [Server thread/INFO]: [Not Secure] <iniDarren> xaero-waypoint:Memek:B:-1127:120:-429:9:false:0:Internal-overworld-waypoints
+[15:03:12] [Server thread/INFO]: [Not Secure] <iniDarren> xaero-waypoint:Spider Spawner:S:-1168:71:-449:12:false:0:Internal-overworld-waypoints
+[15:03:19] [Server thread/INFO]: KaptenZ has made the advancement [Diamonds!]
+[15:05:58] [Server thread/INFO]: DewaYoGamer lost connection: Disconnected
+[15:05:58] [Server thread/INFO]: DewaYoGamer left the game
+[15:06:00] [Server thread/INFO]: iniDarren lost connection: Disconnected
+[15:06:00] [Server thread/INFO]: iniDarren left the game
+[15:06:10] [Server thread/INFO]: KaptenZ lost connection: Disconnected
+[15:06:10] [Server thread/INFO]: KaptenZ left the game
+[15:06:12] [Server thread/INFO]: Xbumps lost connection: Disconnected
+[15:06:12] [Server thread/INFO]: Xbumps left the game
+[15:06:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@3d19e173[id=9b190b50-6f38-3bd9-ae4f-5b8a5909ddad,name=iniDarren,properties={}] lost connection: Disconnected
+[15:07:07] [Server thread/INFO]: DewaYoGamer[/[0:0:0:0:0:0:0:1]:47616] logged in with entity id 14402 at (-2882.1398148948433, 143.0, 235.1945376913673)
+[15:07:07] [Server thread/INFO]: DewaYoGamer joined the game
+[15:07:25] [Server thread/INFO]: iniDarren[/[0:0:0:0:0:0:0:1]:53766] logged in with entity id 15200 at (-2873.2479036031496, 146.0, 232.9448963133725)
+[15:07:25] [Server thread/INFO]: iniDarren joined the game
+[15:07:57] [Server thread/INFO]: Xbumps[/[0:0:0:0:0:0:0:1]:34336] logged in with entity id 15907 at (-2873.9981395179066, 146.0, 232.2363575907771)
+[15:07:57] [Server thread/INFO]: Xbumps joined the game
+[15:08:01] [Server thread/INFO]: KaptenZ[/[0:0:0:0:0:0:0:1]:34324] logged in with entity id 16140 at (-1139.8418990477303, 112.0, -460.0220391888985)
+[15:08:01] [Server thread/INFO]: KaptenZ joined the game
+[15:08:42] [Server thread/INFO]: KaptenZ lost connection: Disconnected
+[15:08:42] [Server thread/INFO]: KaptenZ left the game
+[15:10:40] [Server thread/INFO]: KaptenZ[/[0:0:0:0:0:0:0:1]:37986] logged in with entity id 22698 at (-1138.41542868542, 118.0, -459.50973685125376)
+[15:10:40] [Server thread/INFO]: KaptenZ joined the game
+[15:10:59] [Server thread/INFO]: [Not Secure] <KaptenZ> xaero-waypoint:Spider Spawner:S:-1168:71:-449:12:false:0:Internal-overworld-waypoints
+[15:11:03] [Server thread/INFO]: [Not Secure] <KaptenZ> xaero-waypoint:Memek:B:-1127:120:-429:9:false:0:Internal-overworld-waypoints
+[15:11:40] [Server thread/INFO]: [Not Secure] <KaptenZ> xaero-waypoint:Home:H:-1136:118:-462:10:false:0:Internal-overworld-waypoints
+[15:13:45] [Server thread/INFO]: DewaYoGamer has made the advancement [Ice Bucket Challenge]
+[15:21:59] [Server thread/INFO]: DewaYoGamer fell from a high place
+[15:23:11] [Server thread/INFO]: Xbumps has made the advancement [Isn't It Iron Pick]
+[15:26:46] [Server thread/INFO]: KaptenZ has made the advancement [Best Friends Forever]
+[15:27:37] [Server thread/INFO]: DewaYoGamer lost connection: Disconnected
+[15:27:37] [Server thread/INFO]: DewaYoGamer left the game
+[15:28:53] [Server thread/INFO]: KaptenZ lost connection: Disconnected
+[15:28:53] [Server thread/INFO]: KaptenZ left the game
+[15:34:51] [Server thread/INFO]: iniDarren lost connection: Disconnected
+[15:34:51] [Server thread/INFO]: iniDarren left the game
+[15:34:54] [Server thread/INFO]: Xbumps lost connection: Disconnected
+[15:34:54] [Server thread/INFO]: Xbumps left the game
