@@ -1,0 +1,3 @@
+config/Discord-Integration.toml
+logs/
+.rcon-cli.*
